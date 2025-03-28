@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sarathi G</h1>
 <h3 align="center">Aspiring MCA Graduate Prepared to Kickstart a Career</h3>
 
-- 🔭 I’m currently working on **2D-Virtual Piano with Volume Controller using Gesture Recognition**
+<!--
+- 🔭 I’m currently working on **2D-Virtual Piano with Volume Controller using Gesture Recognition**-->
 
 - 🌱 I’m currently learning **DSA and React.js**
 
 - 📫 How to reach me **sarathi.g06@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/3USH5Zv](https://bit.ly/3USH5Zv)
+<!--
+- 📄 Know about my experiences [https://bit.ly/3USH5Zv](https://bit.ly/3USH5Zv) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
