@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **DSA and React.js**
 
 - 📫 How to reach me **sarathi.g06@gmail.com**
-<!--
-- 📄 Know about my experiences [https://bit.ly/3USH5Zv](https://bit.ly/3USH5Zv) -->
+  
+- 📄 Know about my experiences https://flowcv.com/resume/cc5erppffqvr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
